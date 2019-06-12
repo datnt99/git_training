@@ -6,4 +6,5 @@ This is rebasing!
 12345
 54321
 change something in here
+This is remote branch
 Local branch
